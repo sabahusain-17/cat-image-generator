@@ -8,7 +8,6 @@ Instead, I ran a small free model in Google Colab and completed the cat image ta
 `generate_cat.py` generates a cat image from a text prompt using the free `stabilityai/sd-turbo` model. No paid API or token is needed.
 
 ## Run it
-## Run it
 In Google Colab (each command starts with `!`):
 ```
 !pip install -r requirements.txt
