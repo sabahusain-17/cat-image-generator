@@ -34,3 +34,5 @@ Output from my Colab run:
 - `generate_cat.py`: the image generation script
 - `requirements.txt`: Python dependencies
 - `README.md`: this file
+
+See [UNIT2_SMOLAGENTS.md](UNIT2_SMOLAGENTS.md) for the smolagents tasks from the Hugging Face Agents course.
