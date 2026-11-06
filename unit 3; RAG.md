@@ -54,6 +54,10 @@ What I checked:
 
 Lesson: RAG can keep the text grounded in my notes. It cannot control what the drawing adds. You check an image by looking at it.
 
-![Unicorn image generated with sd-turbo](unicorn.png)
+
+git add unicorn.png README.md
+git commit -m "Add unicorn image to README"
+git push
+
 
 
