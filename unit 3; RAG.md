@@ -1,4 +1,4 @@
-# Party Playlist RAG
+# RAG
 
 A beginner project where I tested RAG (retrieval-augmented generation) and an image model, in Google Colab.
 
@@ -57,7 +57,3 @@ Lesson: RAG can keep the text grounded in my notes. It cannot control what the d
 ![Unicorn image generated with sd-turbo](unicorn.png)
 
 
-## Files
-- `README.md`: this file
-- `unicorn.png`: the generated image
-- `party_playlist_rag.ipynb`: the Colab notebook (File → Download → .ipynb in Colab)
